@@ -1,0 +1,9 @@
+{
+  "JohnDoe@example.com": {
+    "name": "John Doe",
+    "address": "Sugar Land, TX",
+    "equipment": "5-ton American Standard condenser",
+    "last_service": "2025-5-10 heating check",
+    "notes": "Ask if filters are needed before visit."
+  }
+}

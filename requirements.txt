@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+dotenv
+requests
+json
+os
+pathlib 
